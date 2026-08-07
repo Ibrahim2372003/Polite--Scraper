@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><title>Test Book No Description | Books to Scrape (fixture)</title></head>
+<body>
+  <div class="col-sm-6 product_main">
+    <h1>Test Book No Description</h1>
+    <p class="price_color">£12.34</p>
+    <p class="instock availability">
+      <i class="icon-ok"></i>
+        In stock (3 available)
+    </p>
+    <p class="star-rating One">
+      <i class="icon-star"></i>
+    </p>
+  </div>
+
+  <!-- No #product_description block here on purpose: some books really
+       have none, and the extractor must store null, not invent text. -->
+
+  <table class="table table-striped">
+    <tr><th>UPC</th><td>zzz999</td></tr>
+    <tr><th>Product Type</th><td>Books</td></tr>
+  </table>
+</body>
+</html>

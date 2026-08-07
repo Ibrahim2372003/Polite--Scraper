@@ -1,0 +1,7 @@
+[
+  {
+    "url": "https://books.toscrape.com/catalogue/this-book-does-not-exist_99999/index.html",
+    "reason": "HTTP 404",
+    "stage": "fetch"
+  }
+]

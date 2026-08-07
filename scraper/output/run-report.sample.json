@@ -1,0 +1,12 @@
+{
+  "started_at": "2026-08-06T10:00:00.000Z",
+  "finished_at": "2026-08-06T10:01:12.000Z",
+  "duration_ms": 72000,
+  "catalogue_pages_fetched": 3,
+  "book_pages_attempted": 60,
+  "pages_fetched": 63,
+  "cache_hits": 0,
+  "valid_records": 60,
+  "invalid_records": 0,
+  "failed_pages": 0
+}
